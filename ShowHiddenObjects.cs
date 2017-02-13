@@ -1,8 +1,10 @@
-﻿using System.Collections;
+//MOSTDEEP
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+//editing but you can use it and modify it 
 public class HiddenObjectExplorer : EditorWindow
 	{
 		//view the sub menu and menu for the tools
